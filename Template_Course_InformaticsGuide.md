@@ -1,4 +1,4 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> Add Course Title Informatics Guide
+# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> CRISPR genome engineering for cellular modelling and screening  Informatics Guide
 
 **Softwares used during the course**      
 
