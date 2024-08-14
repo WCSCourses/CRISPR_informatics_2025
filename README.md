@@ -72,6 +72,7 @@ The courses will cover topics including:
 - [Aaron Dean](https://www.wellcomeconnectingscience.org/about-us/our-people/#{%22-%22:{%22text%22:%22aaron%22}}), Laboratory Technical Officer
 - [Amy Pass](https://www.wellcomeconnectingscience.org/person/pass-amy/), Events Organiser
 - [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
 - [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
 
