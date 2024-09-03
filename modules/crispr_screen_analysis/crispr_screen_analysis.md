@@ -1,4 +1,4 @@
-# CRISPR screen analysis
+CRISPR screen analysis
 
 
 ## Table of contents
@@ -18,8 +18,7 @@
 The aim of this practical class is to introduce you to some of the concepts involved in the 
 analysis of CRISPR screening data. 
 
-The data you will be working with in this tutorial comes from an experiment performed by the Hart lab 
-Generated from HAP1 cell line, a haploid cell model that harbours a single copy of each 
+The data you will be working with in this tutorial comes from an experiment performed by the Hart lab. Generated from HAP1 cell line, a haploid cell model that harbours a single copy of each 
 
 .
 The DNA for sequencing was derived from a maintained laboratory line of *S. mansoni* at the Wellcome Sanger Institute, in which the mammalian host is a mouse in the maintenance of the life cycle.
@@ -311,7 +310,7 @@ There are a number of ways to compare genomes. We will be using nucmer to do the
 ```bash
 # go to the working directory
 
-cd /home/manager/Module_5_helminth_denovo_assembly/step_4  
+cd /home/manager/modules/crispr_screen_analysis.md/step_4  
 
 
 # run nucmer to generate the comparison between the reference and each genome assembly. We have provided one example, but we would like you to modify the command to also run the SPADES assembly against the reference. Note that it might take a while longer to run.
