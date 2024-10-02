@@ -1,23 +1,16 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> CRISPR genome engineering for cellular modelling and screening  Informatics Guide
+# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+# CRISPR genome engineering for cellular modelling and screening  Informatics Guide
 
-**Softwares used during the course**      
+**Software used during the course**      
 
-| Software | Version (if not latest) | Module |Notes |
-|-------------|--------------|----------|-------------|
-| [Software Name](Software link) | Version Details | Module Name| Space for notes |
+| Software | Version (if not latest) | Notes |
+|-------------|--------------|-------------|
+| [Mageck](https://conda.io) | Latest | Can be installed via conda |
+| [SRAtools](https://conda.io) | Latest | Can be installed via conda |
+| [BAGEL2](https://github.com/hart-lab/bagel) | Latest | Install from source via GitHub |
+| [SnapGene Viewer](https://www.snapgene.com) | Latest | Free download available |
+| [BEstimate](https://github.com/CansuDincer/BEstimate) | Latest |  Install from source via GitHub |
 
-## Informatics Set-Up
-We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
-[Virtual Machine SetUp Guide for Intel-Mac and Windows](https://github.com/WCSCourses/index/blob/main/VM%20Guide.pdf). <br />
-
-The Host OS Requirements for Virtual Box <br />
-- RAM requirement: 8GB (preferably 12GB) <br />
-- Processor requirement: 4 processors (preferably 8) <br />
-- Hard disk space: 200GB <br />
-- Admin rights to the computer <br />
-
-Note: Please be aware that Virtual Box is currently incompatible with M1/M2/M3 chips on MacBook.
-It is exclusively designed for use on Intel-based MacBooks. The current version in use is Virtual Box 7.0.
 
 ## Citing and Re-using Course Material
 
