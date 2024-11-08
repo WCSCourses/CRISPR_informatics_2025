@@ -1,15 +1,9 @@
 # <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
-# CRISPR genome engineering for cellular modelling and screening  Informatics Guide
+# CRISPR genome engineering for cellular modelling and screening Course Guide
 
-**Software used during the course**      
+## Module and Presentations     
 
-| Software | Version (if not latest) | Notes |
-|-------------|--------------|-------------|
-| [Mageck](https://conda.io) | Latest | Can be installed via conda |
-| [SRAtools](https://conda.io) | Latest | Can be installed via conda |
-| [BAGEL2](https://github.com/hart-lab/bagel) | Latest | Install from source via GitHub |
-| [SnapGene Viewer](https://www.snapgene.com) | Latest | Free download available |
-| [BEstimate](https://github.com/CansuDincer/BEstimate) | Latest |  Install from source via GitHub |
+**Fundamentals of CRISPR**: 
 
 
 ## Citing and Re-using Course Material
