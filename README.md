@@ -1,8 +1,11 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+
 # CRISPR genome engineering for cellular modelling and screening 
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+## 7-11 October 2024, Virtual Course
+
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) <br /> 
+[Course Time Table 2024](https://github.com/WCSCourses/CRISPR_Informatics_2024/blob/main/WCS_CRISPR_Timetable2024.pdf) <br /> 
 
 # Summary
 
@@ -51,14 +54,27 @@ The courses will cover topics including:
 
 **CRISPR: Pooled and Arrayed Genetic Screening**
 
-- Design and execute CRISPR based genetic screening approaches in both pooled and arrayed formats including experimental design and analysis.
+- Design and execute CRISPR based genetic screening approaches in both pooled and arrayed formats including experimental design and analysis.  
 
-**Course Runs**      
+#
+**Course Instructors**      
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 7-11 October 2024 | [CRISPR genome engineering for cellular modelling and screening](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) | Virtual Course |Citation DOI |
-| 4-8 November 2024| [CRISPR genome engineering for cellular modelling and screening](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) | Wellcome Genome Campus, Hinxton, UK |Citation DOI |
+- [Matthew Coelho](https://www.sanger.ac.uk/person/coelho-matthew/), Wellcome Sanger Institute, UK
+- [Kalpana Surendranath](https://www.westminster.ac.uk/about-us/our-people/directory/surendranath-kalpana-0), University of Westminster, UK
+- [Andrew Bassett](https://www.sanger.ac.uk/person/bassett-andrew/), Wellcome Sanger Institute, UK
+- [Nneka Anyanwu](https://uk.linkedin.com/in/nnekaanyanwu), Wellcome Sanger Institute, UK
+- [Panos Zalmas](https://uk.linkedin.com/in/panoszalmas), Open Targets, UK
+
+**Wellcome Connecting Science Team**   
+
+- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Education Developer
+- [Cassandra Soo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiHsomN3oP-AhUjSkEAHRWxDaYQFnoECA4QAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fcassandra-claire-soo-b3783277%2Fms%3Ftrk%3Dpeople-guest_people_search-card&usg=AOvVaw3virsoWY_4fVRTpWiL8yDE), Laboratory Courses Manager
+- [Aaron Dean](https://www.wellcomeconnectingscience.org/about-us/our-people/#{%22-%22:{%22text%22:%22aaron%22}}), Laboratory Technical Officer
+- [Amy Pass](https://www.wellcomeconnectingscience.org/person/pass-amy/), Events Organiser
+- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
+- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
 
 ******
 
@@ -73,6 +89,8 @@ Take a look what courses are coming up at [Wellcome Connecting Science Courses &
 ---
 
 For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
+
+
 Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
 ---
