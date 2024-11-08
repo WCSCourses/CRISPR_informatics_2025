@@ -5,8 +5,8 @@
 ## 7-11 October 2024, Virtual Course
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) <br /> 
-[Course Time Table YEAR](#) <br /> 
-[Course Informatics Guide](https://github.com/WCSCourses/CRISPR_Informatics_2024/blob/main/Template_Course_InformaticsGuide.md)
+[Course Time Table 2024](https://github.com/WCSCourses/CRISPR_Informatics_2024/blob/main/WCS_CRISPR_Timetable2024.pdf) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/CRISPR_Informatics_2024/blob/main/Course_Guide.md)
 
 # Summary
 
@@ -57,13 +57,14 @@ The courses will cover topics including:
 
 - Design and execute CRISPR based genetic screening approaches in both pooled and arrayed formats including experimental design and analysis.  
 
+#
 **Course Instructors**      
 
-- [Matthew Coelho](#), Wellcome Sanger Institute, UK
-- [Kalpana Surendranath](#), University of Westminster, UK
-- [Andrew Bassett](#), Wellcome Sanger Institute, UK
-- [Nneka Anyanwu](#), Wellcome Sanger Institute, UK
-- [Panos Zalmas](#), Open Targets, UK
+- [Matthew Coelho](https://www.sanger.ac.uk/person/coelho-matthew/), Wellcome Sanger Institute, UK
+- [Kalpana Surendranath](https://www.westminster.ac.uk/about-us/our-people/directory/surendranath-kalpana-0), University of Westminster, UK
+- [Andrew Bassett](https://www.sanger.ac.uk/person/bassett-andrew/), Wellcome Sanger Institute, UK
+- [Nneka Anyanwu](https://uk.linkedin.com/in/nnekaanyanwu), Wellcome Sanger Institute, UK
+- [Panos Zalmas](https://uk.linkedin.com/in/panoszalmas), Open Targets, UK
 
 **Wellcome Connecting Science Team**   
 
