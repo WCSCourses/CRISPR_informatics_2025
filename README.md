@@ -4,8 +4,8 @@
 
 ## 28 July – 1 August 2025, Virtual Course
 
-[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-genome-engineering-for-cellular-modelling-and-screening-2024-20241007/) <br /> 
-[Course Time Table 2024](https://github.com/WCSCourses/CRISPR_Informatics_2024/blob/main/WCS_CRISPR_Timetable2024.pdf) <br /> 
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-screening-and-analysis-20250921/) <br /> 
+
 
 # Summary
 
