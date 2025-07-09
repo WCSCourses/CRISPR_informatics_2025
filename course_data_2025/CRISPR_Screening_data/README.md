@@ -1,4 +1,4 @@
-### The directory has data for the CRISPR screening informatics session, lead by Jamie Billington and Saamin Cheema
+### The directory has data for the CRISPR screening informatics session, led by Jamie Billington and Saamin Cheema
 
 **Session Slides can be found here:** [course_modules_2025/Thursday/CRISPR_screening](https://github.com/WCSCourses/%20/tree/main/course_modules_2025/Thursday/CRISPR_screening)
 **Google Colab:** 
