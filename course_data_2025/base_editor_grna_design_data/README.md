@@ -1,6 +1,6 @@
 ### The directory has data for the Base editing guide RNA design session, led by Cansu Dincer
 
-**Session Slides can be found here:** [course_modules_2025/Wenesday](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_modules_2025/Wednesday)
+**Session Slides can be found here:** [course_modules_2025/Wednesday](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_modules_2025/Wednesday)
 
 **Google Colab:** 
 
