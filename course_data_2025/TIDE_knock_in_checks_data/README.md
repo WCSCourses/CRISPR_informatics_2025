@@ -8,3 +8,5 @@
 - Then you will see a menu to select which operating system you would like to install.
 - Once you click on the operating system automatically the installer for the operating system will start downloading, which will take about 10 to 30 seconds based on your network speed. 
 - Once the download is complete, please follow the instructions specified by the installer to complete the installation. 
+
+**Please note:** You will require admin access to your computer to complete the installation.
