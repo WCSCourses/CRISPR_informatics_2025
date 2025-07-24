@@ -1,13 +1,13 @@
 # <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50">
 # CRISPR Screening and Analysis - Genome Informatics and Computational Design and Analysis Informatics Guide 2025
 
-**Important Notes**  
+### Important Notes 
 - You will require **admin access** to install Docker and SnapGene Viewer. Please get this arranged **in advance through your institution or workplace IT admin**.  
 - You will need adequate storage on your **computer (15 GB+)** and **Google Drive (5 GB+)**.  
 - We recommend you attend this course in a location with **strong, reliable internet**, as this is a **computation-heavy, cloud-based training**.
 
 
-**Software/Tools used during the course**
+## Software/Tools used during the course
 
 | Prep Day              | For Day               | What Needs to Be Done                                                                                                                                                                                                                       | Notes & Course Modules                                                                                                           |
 |-----------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
