@@ -3,7 +3,6 @@
 **Session Slides can be found here:** [course_modules_2025/Wednesday](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_modules_2025/Wednesday)
 
 **During the practical session, you will be working on Google Colab:** 
-- [gRNA_design_for_CRISPR_base_editors.ipynb](https://colab.research.google.com/github/WCSCourses/CRISPR_informatics_2025/blob/main/course_data_2025/base_editor_grna_design_data/gRNA_design_for_CRISPR_base_editors.ipynb)
 - [CRISPR_BEstimate_Practical.ipynb](https://colab.research.google.com/github/WCSCourses/CRISPR_informatics_2025/blob/main/course_data_2025/base_editor_grna_design_data/CRISPR_BEstimate_Practical.ipynb)
 
 **Another way to access this file manually**
@@ -14,7 +13,6 @@
 - Press Enter to load the notebooks.
 - Navigate through the folders: course_data_2025 → base_editor_grna_design_data
 - Click on:
-- `gRNA_design_for_CRISPR_base_editors.ipynb`
 - `CRISPR_BEstimate_Practical.ipynb`
 
 
