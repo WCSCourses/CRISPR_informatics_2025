@@ -7,7 +7,7 @@
 - [SNV and knock-in validation (Sanger sequencing - TIDE) - Sandeep Rajan](https://github.com/WCSCourses/CRISPR_informatics_2025/blob/main/course_modules_2025/Wednesday/WCS_TIDE%20analysis_300725.pdf) </br>
 
 **Course Data for the day:** </br>
-- [base_editor_data](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/base_editor_data)<br>
--  [Knock_in_checks](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/Knock_in_checks)<br>
-- [SNP_checks](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/SNP_checks)<br>
-- [TIDE_analysis](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/TIDE_analysis)<br>
+- [base_editor_data - Cansu Dincer](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/base_editor_data)<br>
+-  [Knock_in_checks - Sandeep Rajan](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/Knock_in_checks)<br>
+- [SNP_checks - Sandeep Rajan](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/SNP_checks)<br>
+- [TIDE_analysis - Sandeep Rajan](https://github.com/WCSCourses/CRISPR_informatics_2025/tree/main/course_data_2025/TIDE_analysis)<br>
