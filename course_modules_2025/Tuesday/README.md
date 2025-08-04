@@ -4,7 +4,7 @@
 
 **Slides in this directory:** </br>
 - [Gene Editing Concepts and Workflow - Kalpana Surendranath](https://github.com/WCSCourses/CRISPR_informatics_2025/blob/main/course_modules_2025/Tuesday/Gene%20Editing%20Concepts%20and%20Workflow_KS2025.pdf) </br>
-- [CRISPR gene editing in human embryos  - Kalpana Surendranath and Munuse Savash](https://github.com/WCSCourses/CRISPR_informatics_2025/blob/main/course_modules_2025/Tuesday/CRISPR%20gene%20editing%20in%20human%20embryos.pdf) </br>
+- [CRISPR gene editing in human embryos  - Kalpana Surendranath and Munuse Savash](https://github.com/WCSCourses/CRISPR_informatics_2025/blob/main/course_modules_2025/Tuesday/CRISPR_gene_editing_in_human_embryos.pdf) </br>
 - [CRISPressoPresentation2025 - Khalid Akram](https://github.com/WCSCourses/CRISPR_informatics_2025/blob/main/course_modules_2025/Tuesday/CRISPressoPresentation2025.pdf) </br>
 
 
