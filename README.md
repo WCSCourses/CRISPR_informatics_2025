@@ -1,11 +1,15 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# CRISPR genome engineering for cellular modelling and screening 
+# CRISPR Screening and Analysis 
 
-## 28 July – 1 August 2025, Virtual Course
+Explore the therapeutic applications of pooled and arrayed CRISPR screens
 
-[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-screening-and-analysis-20250921/) <br /> 
+[Wellcome Connecting Science Course Website ](https://coursesandconferences.wellcomeconnectingscience.org/event/crispr-screening-and-analysis-20250921/) <br /> 
 
+**Course is comprised of two parts and attendance is mandatory to complete the course:**
+
+- A 5-day hands-on **virtual component (28 July – 1 August 2025**) covering genome informatics, computational design and analysis
+- A 5-day **in-person component (21-26 September)** with laboratory and informatics practicals and workshops focused on pooled and arrayed screening
 
 # Summary
 
@@ -32,7 +36,6 @@ Upon completion of this course, participants should be able to:
 - Design and execute CRISPR based genetic screening approaches in both pooled and arrayed formats
 - Understand CRISPR-based genetic screening methods, including design, reagents, and techniques including their advantages and limitations
 - Perform CRISPR screening analysis using available tools and resources
-
 
 **Course Instructors**      
 
